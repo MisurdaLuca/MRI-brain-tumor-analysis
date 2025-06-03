@@ -1,6 +1,8 @@
 ![Logo](https://uni-obuda.hu/wp-content/uploads/2021/11/kep3.jpg)
 # 🧠 MRI Brain Tumor Analysis
 
+## Status: Finished
+
 ## 👋🏼 Welcome to my project work!
 
 This repository is part of a semester-long assignment for the **Machine Vision and Image Processing in Healthcare** course at the **University of Óbuda**, within the **Artificial Intelligence specialization**.
