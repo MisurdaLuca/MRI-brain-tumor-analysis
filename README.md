@@ -9,10 +9,6 @@ This repository is part of a semester-long assignment for the **Machine Vision a
 
 The goal of this project is to build a pipeline that processes, analyzes, and extracts features from MRI brain images, aiming to support tumor detection and classification tasks using both classical AI methods and modern preprocessing techniques.
 
-## 📂 Project Structure
-
-Coming soon...
-
 ## 🧪 Functionality
 - ✅ **Intensity normalization** to standardize voxel values
 - ✅ **2D feature extraction** from selected slices (e.g. using SIFT, SURF, HOG)
