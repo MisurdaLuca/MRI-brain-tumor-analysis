@@ -4,7 +4,7 @@
 
 # 🧠 MRI Brain Tumor Analysis
 
-## Status: Finished
+## Status: Ongoing
 
 ## 👋🏼 Welcome to my project work!
 
